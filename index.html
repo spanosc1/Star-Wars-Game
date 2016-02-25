@@ -210,13 +210,14 @@
 					if(numOpponents == 0)
 					{
 						$("#instructions").html("You Win! Congratulations!");
-						return;
 					}
+					return;
 				}
 				you.health -= opponent.counter;
 				updateHealthYou();
 				if(you.health <= 0)
 				{
+					$("#health").html("Health: 0");
 					$("#instructions").html("Game Over!");
 				}
 			}

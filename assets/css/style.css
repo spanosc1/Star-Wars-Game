@@ -3,25 +3,25 @@ body {
 }
 
 #starting-point {
-	height: 300px;
+	height: 250px;
 	background-color: black;
 	opacity: 0.85;
 }
 
 #combat {
-	height: 600px;
+	height: 500px;
 	background-color: gray;
 	opacity: 0.85;
 }
 
 #opponents {
-	height: 300px;
+	height: 250px;
 	background-color: red;
 	opacity: 0.85;
 }
 
 #display {
-	height: 70px;
+	height: 50px;
 	background-color: #2FF923;
 	opacity: 0.7;
 	text-align: center;
@@ -36,29 +36,29 @@ body {
 }
 
 .profile-pic {
-	height: 300px;
-	width: 220px;
+	height: 250px;
+	width: 170px;
 }
 
 .character {
-	height: 300px;
-	width: 220px;
+	height: 250px;
+	width: 170px;
 }
 
 #choose {
 	color: white;
 	float: right;
-	font-size: 40px;
+	font-size: 30px;
 }
 
 #health {
 	text-align: center;
-	font-size: 40px;
+	font-size: 30px;
 }
 
 #opponent-health {
 	text-align: center;
-	font-size: 40px;
+	font-size: 30px;
 }
 
 #instructions {
@@ -66,6 +66,6 @@ body {
 }
 
 button {
-	font-size: 40px;
+	font-size: 30px;
 	margin-top: 10px;
 }
