@@ -1,0 +1,71 @@
+body {
+	background-image: url("../images/background.jpg");
+}
+
+#starting-point {
+	height: 300px;
+	background-color: black;
+	opacity: 0.85;
+}
+
+#combat {
+	height: 600px;
+	background-color: gray;
+	opacity: 0.85;
+}
+
+#opponents {
+	height: 300px;
+	background-color: red;
+	opacity: 0.85;
+}
+
+#display {
+	height: 70px;
+	background-color: #2FF923;
+	opacity: 0.7;
+	text-align: center;
+}
+
+#star-wars {
+	font-size: 40px;
+	text-align: center;
+	background-color: #2719FF;
+	opacity: 0.7;
+	color: white;
+}
+
+.profile-pic {
+	height: 300px;
+	width: 220px;
+}
+
+.character {
+	height: 300px;
+	width: 220px;
+}
+
+#choose {
+	color: white;
+	float: right;
+	font-size: 40px;
+}
+
+#health {
+	text-align: center;
+	font-size: 40px;
+}
+
+#opponent-health {
+	text-align: center;
+	font-size: 40px;
+}
+
+#instructions {
+	font-size: 40px;
+}
+
+button {
+	font-size: 40px;
+	margin-top: 10px;
+}
